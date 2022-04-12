@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Project API TOKO
 
 -[Golang] (www.go.dev)
@@ -15,3 +16,8 @@ Port    : <port yang digunakan>
 
 
 
+=======
+## Contoh Tugas Kelompok
+
+Harusnya sih bisa
+>>>>>>> d42df59bf5dbe2bb6a39d82de85f481782a549cb
