@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+## Contoh Tugas Kelompok
 #Project API TOKO
 
 -[Golang] (www.go.dev)
@@ -11,13 +11,9 @@ untuk **menggunakan** projek _ini_ tolong sediakan file `.env` dengan struktur s
 DBName  : <nama db>
 Port    : <port yang digunakan>
 '''
-
-> hello world
-
-
-
-=======
-## Contoh Tugas Kelompok
-
 Harusnya sih bisa
->>>>>>> d42df59bf5dbe2bb6a39d82de85f481782a549cb
+
+
+
+
+
