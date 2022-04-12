@@ -72,7 +72,7 @@ func main() {
 	}
 	fmt.Println(allUser)
 
-	_, err = barangAcc.InsertBarang(entities.Barang{Nama: "Sepatu"}) //dipanggil saat nambah lagi
+	_, err = barangAcc.InsertBarang(entities.Barang{Nama: "kaleng"}) //dipanggil saat nambah lagi
 	if err != nil {
 		fmt.Println(err)
 	}
